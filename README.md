@@ -21,7 +21,5 @@ Prerequisites
 Installation
 1. **Clone the repository:**
 
-YouTuble Link:
-
-   ```bash
+# YouTuble Link:
    git clone [https://github.com/YOUR_USERNAME/LastName_FirstName_FinalProject.git](https://github.com/YOUR_USERNAME/LastName_FirstName_FinalProject.git)
