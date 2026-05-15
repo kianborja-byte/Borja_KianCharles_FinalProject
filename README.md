@@ -22,5 +22,4 @@ Installation
 1. **Clone the repository:**
 
 # YouTuble Link: 
-
-   git clone [https://github.com/kianborja-byte/Borja_Kian CharlesFinalProject.git](https://youtu.be/ZgB_TGY1h7Q?si=Z4mC7SX6jy97CSNG)
+[https://github.com/kianborja-byte/Borja_Kian CharlesFinalProject.git](https://youtu.be/ZgB_TGY1h7Q?si=Z4mC7SX6jy97CSNG)
